@@ -1,0 +1,5 @@
+# for cpp object files
+*.o
+
+# for java class files
+*.class
