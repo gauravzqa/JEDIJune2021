@@ -2,13 +2,13 @@
 
 #include <stdio.h>
 
-void helloWorld(){
-	printf("Hello World!");
-	printf("lol xd!!!");
+void greeting(char namep[]){
+	printf("hahah lol.....%s",name);	
 }
 
 int main(){
-	helloWorld();
+	char name[]="kuroko\n";
+	greeting(name);
 }
 
 
