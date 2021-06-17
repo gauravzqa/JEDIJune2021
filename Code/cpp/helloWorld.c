@@ -7,8 +7,12 @@ void helloWorld(){
 	printf("lol xd!!!");
 }
 
+void greeting(){
+	printf("haha...gg");
+}
+
 int main(){
-	helloWorld();
+	greeting();
 }
 
 
