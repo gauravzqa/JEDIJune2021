@@ -7,6 +7,6 @@ public class stringwork {
         System.out.printf("myint has a value %d%n",myint);
         System.out.println(str);
         System.out.printf("%5.2s%n", "Hi there!");
-        // System.out.print()
+    	System.out.printf("hahahahah!!!");
     }    
 }
